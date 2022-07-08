@@ -1,0 +1,17 @@
+.container {border: 5px;}
+.colors {border: 5px; border-color:red;}
+h1 {color:rgb(255, 255, 255); border: 5px; border-color: red;
+ ;}
+.text-panel {border: 2px;}
+
+.text-panel {color:white; }
+.colors {color:white}
+
+.container {color:white}
+
+.generator {background-color: black; align-content: center;}
+
+
+h2 {font-family: Georgia, 'Times New Roman', Times, serif;font-style:italic}
+
+h1 {font-family: monospace; font-weight: bold;}
